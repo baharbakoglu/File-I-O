@@ -1,0 +1,6 @@
+123,25,Terminator,Action,James Cameron,Hired;
+456,15,Return of the Jedi,Fantastic,Geroge Lucas,Inv;
+100,50,Shooter,Action,Antoine Fuqua,Hired;
+210,45,The Ugly Truth,Comedy,Robert Luketic,Inv;
+857,20,Law Abiding Citizen,Crime,F. Gary Gray,Inv;
+153,35,The Terminal,Comedy,Steven Spielberg,Hired;
